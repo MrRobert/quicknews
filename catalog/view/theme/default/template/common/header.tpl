@@ -71,15 +71,15 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a style="margin-right: 30px;" class="navbar-brand" href="#"><img style="width: 89px; height: 38px;" alt="logo" src="<?php echo STATIC_PATH ?>/image/logo.png"></a>
+            <a style="margin-right: 30px;" class="navbar-brand" href="index.php"><img style="width: 89px; height: 38px;" alt="logo" src="<?php echo STATIC_PATH ?>/image/logo.png"></a>
             <ul class="nav navbar-nav" id="nav">
-                <li class="interior "><a href="#"><span class="nav_point"></span>Làng Sao</a></li>
+                <li class="interior "><a href="index.php?route=catalog/sao"><span class="nav_point"></span>Làng Sao</a></li>
                 <li class="digital "><a href="#"><span class="nav_point"></span>Tin trong nước</a></li>
                 <li class="interior "><a href="#"><span class="nav_point"></span>Tin quốc tế</a></li>
                 <li class="goods "><a href="#"><span class="nav_point"></span>Phụ nữ</a></li>
                 <li class="travel "><a href="#"><span class="nav_point"></span>Menly</a></li>
                 <li class="fashion "><a href="#"><span class="nav_point"></span>Xả stress</a></li>
-                <li class="travel "><a href="#"><span class="nav_point"></span>Video</a></li>
+                <li class="travel "><a href="index.php?route=catalog/video"><span class="nav_point"></span>Video</a></li>
                 <li class="digital "><a href="http://www.quicktv.com.vn" target="_blank" style="text-transform: none;"><span class="nav_point"></span>QuickMusic</a></li>
                 <li class="show"><a style="text-transform: none;" target="_blank" href="http://www.zotatv.com"><span class="nav_point"></span>QuickTV</a></li>
             </ul>

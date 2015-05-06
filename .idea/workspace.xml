@@ -2,650 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c373f338-40ad-4b27-bf7f-5cfbfd3b124c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/0-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/0-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1390491700-1384306879-19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1428368547_6D0A0304.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1430191467-s_fdnn_video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/15df0364-69ba-4aaf-a440-fd9ab43b9666.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1er.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1q.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/1w1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/23r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/2r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/3_002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/3r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/561.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/5h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/5t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/6u.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/Sotaydulich_Loi_khuyen_du_lich_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/avb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/banner-top.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/banner_300x250_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/banner_300x250_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/banner_300x250_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/banner_300x250_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/banner_300x250_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/dg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/fgh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/gg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/huong1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/jm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/js.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/ks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/nl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/q1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/q3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/sh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/ttr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/tx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/v.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/vd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/xc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/image/xv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/js/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/js/analytics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/css/custom_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/js/jquery-migrate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/js/jquery_002.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/js/sdk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/css/style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/address.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/download.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/edit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/forgotten.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/logout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/newsletter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/password.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/recurring.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/register.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/return.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/success.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/transaction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/account/wishlist.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/edit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/forgotten.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/logout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/password.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/payment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/register.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/success.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/tracking.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/affiliate/transaction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/cart.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/coupon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/customer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/payment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/shipping.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/api/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/cart.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/confirm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/coupon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/failure.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/guest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/guest_shipping.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/payment_address.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/payment_method.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/register.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/shipping.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/shipping_address.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/shipping_method.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/success.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/checkout/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/common/cart.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/common/column_left.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/common/column_right.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/common/content_bottom.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/common/content_top.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/common/currency.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/common/language.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/ebay/openbay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/information/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/information/information.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/information/sitemap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/affiliate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/amazon_button.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/amazon_login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/amazon_pay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/banner.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/bestseller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/carousel.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/category.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/ebay_listing.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/featured.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/filter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/google_hangouts.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/information.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/latest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/pp_button.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/pp_login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/slideshow.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/special.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/module/store.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/openbay/amazon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/openbay/amazonus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/openbay/ebay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/openbay/etsy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/amazon_checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/amazon_login_pay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/authorizenet_aim.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/authorizenet_sim.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/bank_transfer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/bluepay_hosted.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/bluepay_redirect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/cheque.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/cod.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/firstdata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/firstdata_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/free_checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/globalpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/globalpay_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/klarna_account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/klarna_invoice.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/liqpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/nochex.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/paymate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/paypoint.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/payza.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/perpetual_payments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/pp_express.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/pp_payflow.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/pp_payflow_iframe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/pp_pro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/pp_pro_iframe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/pp_standard.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/realex.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/realex_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/sagepay_direct.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/sagepay_server.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/sagepay_us.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/securetrading_pp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/securetrading_ws.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/skrill.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/twocheckout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/web_payment_software.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/payment/worldpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/controller/tool/upload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/address.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/download.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/edit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/forgotten.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/logout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/newsletter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/password.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/recurring.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/register.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/return.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/success.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/transaction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/account/wishlist.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/edit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/forgotten.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/logout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/password.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/payment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/register.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/success.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/tracking.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/affiliate/transaction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/cart.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/coupon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/customer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/payment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/shipping.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/api/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/checkout/cart.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/checkout/checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/checkout/coupon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/checkout/failure.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/checkout/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/checkout/shipping.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/checkout/success.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/checkout/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/mail/affiliate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/mail/customer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/mail/forgotten.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/mail/order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/mail/review.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/mail/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/affiliate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/bestseller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/category.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/ebay_listing.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/featured.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/filter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/google_hangouts.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/information.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/latest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/special.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/module/store.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/openbay/amazon_order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/openbay/amazonus_order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/openbay/ebay_order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/openbay/etsy_order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/amazon_checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/amazon_login_pay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/authorizenet_aim.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/authorizenet_sim.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/bank_transfer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/bluepay_hosted.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/bluepay_redirect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/cheque.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/cod.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/firstdata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/firstdata_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/free_checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/globalpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/globalpay_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/klarna_account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/klarna_invoice.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/liqpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/nochex.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/paymate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/paypoint.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/payza.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/perpetual_payments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/pp_express.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/pp_payflow.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/pp_payflow_iframe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/pp_pro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/pp_pro_iframe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/pp_standard.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/realex.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/realex_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/sagepay_direct.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/sagepay_server.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/sagepay_us.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/securetrading_pp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/securetrading_ws.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/skrill.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/twocheckout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/web_payment_software.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/payment/worldpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/auspost.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/citylink.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/fedex.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/flat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/free.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/item.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/parcelforce_48.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/pickup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/royal_mail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/ups.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/usps.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/shipping/weight.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/tool/upload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/coupon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/credit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/handling.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/klarna_fee.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/low_order_fee.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/sub_total.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/total.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/language/english/total/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/activity.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/address.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/custom_field.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/customer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/customer_group.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/download.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/recurring.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/return.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/account/transaction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/checkout/coupon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/checkout/fraud.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/checkout/marketing.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/checkout/order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/checkout/recurring.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/checkout/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/checkout/voucher_theme.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/extension/extension.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/extension/module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/module/pp_login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/amazon_listing.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/amazon_order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/amazon_product.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/amazonus_listing.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/amazonus_order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/amazonus_product.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/ebay_openbay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/ebay_order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/ebay_product.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/etsy_order.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/openbay/etsy_product.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/amazon_checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/amazon_login_pay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/authorizenet_aim.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/authorizenet_sim.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/bank_transfer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/bluepay_hosted.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/bluepay_redirect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/cheque.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/cod.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/firstdata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/firstdata_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/free_checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/globalpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/globalpay_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/klarna_account.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/klarna_invoice.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/liqpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/nochex.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/paymate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/paypoint.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/payza.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/perpetual_payments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/pp_express.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/pp_payflow.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/pp_payflow_iframe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/pp_pro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/pp_pro_iframe.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/pp_standard.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/realex.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/realex_remote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/sagepay_direct.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/sagepay_server.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/sagepay_us.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/securetrading_pp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/securetrading_ws.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/skrill.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/twocheckout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/web_payment_software.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/payment/worldpay.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/auspost.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/citylink.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/fedex.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/flat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/free.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/item.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/parcelforce_48.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/pickup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/royal_mail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/ups.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/usps.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/shipping/weight.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/coupon.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/credit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/handling.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/klarna_fee.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/low_order_fee.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/reward.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/shipping.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/sub_total.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/tax.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/total.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/model/total/voucher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/datetimepicker/moment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/jquery-2.1.1.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/magnific/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/owl-carousel/AjaxLoader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/owl-carousel/grabbing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/owl-carousel/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/owl-carousel/owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/owl-carousel/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/owl-carousel/owl.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/owl-carousel/owl.transitions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/image/klarna_green_full.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/image/klarna_green_middle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/image/klarna_nld_banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/image/paypal_express_mobile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/account.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/address_form.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/address_list.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/download.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/edit.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/forgotten.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/login.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/newsletter.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/order_info.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/order_list.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/password.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/recurring_info.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/recurring_list.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/register.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/return_form.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/return_info.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/return_list.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/reward.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/transaction.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/voucher.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/account/wishlist.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/account.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/edit.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/forgotten.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/login.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/password.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/payment.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/register.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/tracking.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/affiliate/transaction.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/cart.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/checkout.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/confirm.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/coupon.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/guest.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/guest_shipping.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/login.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/payment_address.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/payment_method.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/register.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/reward.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/shipping.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/shipping_address.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/shipping_method.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/checkout/voucher.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/buttons.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/cart.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/column_left.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/column_right.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/content_bottom.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/content_top.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/currency.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/success.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/account.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/affiliate.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/amazon_button.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/amazon_login.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/amazon_pay.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/banner.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/bestseller.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/carousel.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/category.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/ebay_listing.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/featured.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/filter.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/google_hangouts.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/html.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/information.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/latest.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/pp_button.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/pp_login.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/slideshow.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/special.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/module/store.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_checkout_address.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_checkout_confirm.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_checkout_failure.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_checkout_payment.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_checkout_success.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_login_pay_address.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_login_pay_confirm.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_login_pay_failure.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/amazon_login_pay_payment.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/authorizenet_aim.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/authorizenet_sim.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/bank_transfer.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/bluepay_hosted.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/bluepay_redirect.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/cheque.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/cod.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/firstdata.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/firstdata_remote.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/free_checkout.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/globalpay.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/globalpay_remote.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/globalpay_response.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/klarna_account.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/klarna_invoice.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/liqpay.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/nochex.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/paymate.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/paypoint.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/paypoint_failure.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/paypoint_success.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/payza.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/perpetual_payments.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_express.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_express_confirm.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_payflow.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_payflow_iframe.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_payflow_iframe_return.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_pro.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_pro_iframe.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_pro_iframe_body.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/pp_standard.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/realex.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/realex_remote.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/realex_response.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/sagepay_direct.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/sagepay_server.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/sagepay_us.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/securetrading_pp.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/securetrading_ws.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/skrill.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/twocheckout.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/web_payment_software.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/worldpay.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/worldpay_failure.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/payment/worldpay_success.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/cache/cache.currency.1430825209" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/cache/cache.language.1430825209" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/logs/error.log" afterPath="$PROJECT_DIR$/system/logs/error.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/controller/common/footer.php" afterPath="$PROJECT_DIR$/catalog/controller/common/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/controller/catalog/sao.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/catalog/sao.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/controller/catalog/video.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/catalog/video.tpl" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\controller\product\category.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\controller\product\compare.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\controller\product\manufacturer.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\controller\product\product.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\controller\product\search.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\controller\product\special.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\view\theme\default\template\product\category.tpl" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\view\theme\default\template\product\compare.tpl" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\view\theme\default\template\product\manufacturer_info.tpl" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\view\theme\default\template\product\manufacturer_list.tpl" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\view\theme\default\template\product\product.tpl" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\view\theme\default\template\product\review.tpl" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\view\theme\default\template\product\search.tpl" afterPath="" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\quicknews\catalog\view\theme\default\template\product\special.tpl" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/controller/common/home.php" afterPath="$PROJECT_DIR$/catalog/controller/common/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/home.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/common/home.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="quicknews.iws" />
@@ -672,16 +47,200 @@
       <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/controller/common/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="468">
+            <state line="12" column="67" selection-start="0" selection-end="882" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="442">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/catalog/controller/common/footer.php">
+      <file leaf-file-name="home.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/home.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="20" selection-start="752" selection-end="752" vertical-scroll-proportion="0.4964029" vertical-offset="0" max-vertical-offset="834">
+            <state line="23" column="33" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-10.269231" vertical-offset="124" max-vertical-offset="11067">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#2;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#3;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#4;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#5;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#6;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#7;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#8;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#9;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#10;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#11;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#12;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#13;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#14;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#15;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#16;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#17;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#6;n#div#0;n#div#0;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/catalog/video.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="54" selection-start="0" selection-end="18651" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="7140">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#8;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#9;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#10;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#11;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#12;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#13;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#14;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#15;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#16;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#17;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#18;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#19;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#20;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#21;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#22;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#23;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#24;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/controller/catalog/video.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="5" selection-start="0" selection-end="702" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sao.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/catalog/sao.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="409" column="41" selection-start="52035" selection-end="52035" vertical-scroll-proportion="-9.923077" vertical-offset="6695" max-vertical-offset="7344">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#form#0;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#2;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#3;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#4;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#5;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#6;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#7;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#8;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#9;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#10;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#11;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#12;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#13;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#14;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#15;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#16;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#17;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#18;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#article#19;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sao.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/controller/catalog/sao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="51" selection-start="299" selection-end="299" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/view/template/common/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1462">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="45" selection-start="10755" selection-end="10755" vertical-scroll-proportion="0.50760454" vertical-offset="1025" max-vertical-offset="1598">
+              <folding>
+                <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/css/custom_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="929" column="11" selection-start="17724" selection-end="17724" vertical-scroll-proportion="0.0" vertical-offset="15500" max-vertical-offset="33830">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="-3.2307692" vertical-offset="86" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
@@ -697,6 +256,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -704,19 +268,23 @@
         <option value="$PROJECT_DIR$/catalog/controller/common/home.php" />
         <option value="$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl" />
         <option value="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/style.css" />
-        <option value="$PROJECT_DIR$/config.php" />
-        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" />
-        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/common/home.tpl" />
         <option value="$PROJECT_DIR$/catalog/controller/common/footer.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/css/custom_style.css" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/common/home.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/catalog/video.tpl" />
+        <option value="$PROJECT_DIR$/catalog/controller/catalog/video.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/catalog/sao.tpl" />
+        <option value="$PROJECT_DIR$/catalog/controller/catalog/sao.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1215" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="width" value="1374" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -822,7 +390,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="catalog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -906,24 +474,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quicknews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quicknews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesSmarty" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\quicknews\catalog\view\theme\default\image" />
       <recent name="$PROJECT_DIR$/catalog/view/theme/default" />
       <recent name="$PROJECT_DIR$/catalog/view/javascript" />
       <recent name="$PROJECT_DIR$/catalog/view/theme/default/image" />
       <recent name="$PROJECT_DIR$/catalog/view/theme/default/stylesheet" />
-      <recent name="$PROJECT_DIR$/catalog/view/theme/default/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/catalog/view/theme/default/image" />
@@ -955,27 +546,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
+    <frame x="-8" y="0" width="1374" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2540633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25552282" sideWeight="0.67156863" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -995,153 +587,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="26" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="4698">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="612">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="3222">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="648">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crossdomain.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/quicknews.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="141192">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="26" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="4698">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/quicknews.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="141192">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="3222">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="637" selection-end="637" vertical-scroll-proportion="0.31877214" vertical-offset="0" max-vertical-offset="847">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crossdomain.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="849">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/english/english.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/common/maintenance.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/common/seo_url.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="52" selection-start="363" selection-end="363" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="2466">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/common/search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="861">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/product/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7794">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/model/catalog/information.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.15107913" vertical-offset="0" max-vertical-offset="834">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/feed/google_sitemap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="2310" selection-end="2310" vertical-scroll-proportion="-3.1111112" vertical-offset="888" max-vertical-offset="2016">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/css/custom_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="35820">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="5" selection-start="437" selection-end="437" vertical-scroll-proportion="0.5017422" vertical-offset="0" max-vertical-offset="114084">
@@ -1151,52 +596,212 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/js/sdk.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2880">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2880" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/footer.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="108">
+        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/common/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="29" selection-start="894" selection-end="894" vertical-scroll-proportion="0.68214285" vertical-offset="128" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="249" selection-end="253" vertical-scroll-proportion="0.26109216" vertical-offset="0" max-vertical-offset="586">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="369" selection-end="380" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="684">
+        <state line="10" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="-3.2307692" vertical-offset="86" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/image/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/css/custom_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="929" column="11" selection-start="17724" selection-end="17724" vertical-scroll-proportion="0.0" vertical-offset="15500" max-vertical-offset="33830">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/home.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-10.269231" vertical-offset="124" max-vertical-offset="11067">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#2;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#3;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#4;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#5;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#6;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#7;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#8;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#9;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#10;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#11;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#12;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#13;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#14;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#15;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#16;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#17;n#div#0;n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#6;n#div#0;n#div#0;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/common/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="67" selection-start="0" selection-end="882" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/catalog/video.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="54" selection-start="0" selection-end="18651" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="7140">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#7;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#8;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#9;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#10;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#11;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#12;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#13;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#14;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#15;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#16;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#17;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#18;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#19;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#20;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#21;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#22;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#23;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#24;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/catalog/sao.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="409" column="41" selection-start="52035" selection-end="52035" vertical-scroll-proportion="-9.923077" vertical-offset="6695" max-vertical-offset="7344">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#2;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#3;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#4;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#5;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#6;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#7;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#8;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#9;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#10;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#11;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#12;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#13;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#14;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#15;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#16;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#17;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#18;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#19;n#div#0;n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/catalog/video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="0" selection-end="702" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/catalog/sao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="51" selection-start="299" selection-end="299" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/common/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="42" selection-start="2627" selection-end="2627" vertical-scroll-proportion="-8.444445" vertical-offset="654" max-vertical-offset="1998">
+        <state line="76" column="45" selection-start="10755" selection-end="10755" vertical-scroll-proportion="0.50760454" vertical-offset="1025" max-vertical-offset="1598">
           <folding>
             <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/common/home.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="652" column="22" selection-start="59528" selection-end="59528" vertical-scroll-proportion="0.8705036" vertical-offset="11010" max-vertical-offset="11844">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/common/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/controller/common/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="20" selection-start="752" selection-end="752" vertical-scroll-proportion="0.4964029" vertical-offset="0" max-vertical-offset="834">
-          <folding />
         </state>
       </provider>
     </entry>
