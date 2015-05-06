@@ -235,7 +235,7 @@ a:hover {
 	margin-left: 0;
 }
 #homecenterNews{
-	width: 708px;
+	width: 825px;
 	margin-right: 10px;
 	padding-right: 0;
 	padding-left: 0;
@@ -567,7 +567,7 @@ ul.other-video li .left-other-post:hover >.other-cat-name {
     background-color: rgba(0,0,0,0.4);
 }
 ul.other-post li {
-	width: 340px;
+	width: 275px;
 	float: left;
 	margin: 10px 0px 10px 0;
 	overflow: hidden;
@@ -922,7 +922,7 @@ a.link-post-content:hover p {
 	color: #5f656c;
 }
 .imgArtCt img, .imgArtCtDetail img {
-	width: 620px;
+	width: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;

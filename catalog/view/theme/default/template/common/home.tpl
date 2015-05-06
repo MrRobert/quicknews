@@ -21,7 +21,7 @@
             <div class="item next left" style="background: url(http://www.enang.net/wp-content/uploads/2015/05/0.jpg) no-repeat; background-size: cover;">
                 <img class="f-image" src="<?php echo STATIC_PATH ?>/image/0.jpg" alt="The Remix 2015: Sơn Tùng M-TP, Tóc Tiên rút lui, Đông Nhi sẽ là quán quân?">
                 <div class="carousel-caption">
-                    <a href="http://www.enang.net/the-remix-2015-son-tung-m-tp-toc-tien-rut-lui-dong-nhi-se-la-quan-quan_post-13614.html">The Remix 2015: Sơn Tùng M-TP, Tóc Tiên rút lui, Đông Nhi sẽ là quán quân?</a>
+                    <a href="#">The Remix 2015: Sơn Tùng M-TP, Tóc Tiên rút lui, Đông Nhi sẽ là quán quân?</a>
                     <br>
                 </div>
                 <p class="gradient"></p>
@@ -30,7 +30,7 @@
             <div class="item" style="background: url(http://www.enang.net/wp-content/uploads/2015/05/2.jpg) no-repeat; background-size: cover;">
                 <img class="f-image" src="<?php echo STATIC_PATH ?>/image/2.jpg" alt="Tao (EXO) khóc nức nở giữa tin đồn rời nhóm">
                 <div class="carousel-caption">
-                    <a href="http://www.enang.net/tao-exo-khoc-nuc-no-giua-tin-don-roi-nhom_post-13584.html">Tao (EXO) khóc nức nở giữa tin đồn rời nhóm</a>
+                    <a href="#">Tao (EXO) khóc nức nở giữa tin đồn rời nhóm</a>
                     <br>
                 </div>
                 <p class="gradient"></p>
@@ -39,7 +39,7 @@
             <div class="item active left" style="background: url(http://www.enang.net/wp-content/uploads/2015/05/3.jpg) no-repeat; background-size: cover;">
                 <img class="f-image" src="<?php echo STATIC_PATH ?>/image/3_002.jpg" alt="Trung Dũng đóng cảnh nóng với hai diễn viên nữ">
                 <div class="carousel-caption">
-                    <a href="http://www.enang.net/trung-dung-dong-canh-nong-voi-hai-dien-vien-nu_post-13589.html">Trung Dũng đóng cảnh nóng với hai diễn viên nữ</a>
+                    <a href="#">Trung Dũng đóng cảnh nóng với hai diễn viên nữ</a>
                     <br>
                 </div>
                 <p class="gradient"></p>
@@ -53,7 +53,7 @@
     <div class="other-post-div hidden-xs">
         <ul class="other-post">
             <li>
-                <a href="http://www.enang.net/thanh-duy-xuat-sac-khi-gia-mc-thanh-bach_post-13598.html">
+                <a href="#">
                     <div class="left-other-post">
                         <img class="img-other-post" src="<?php echo STATIC_PATH ?>/image/4.jpg" alt="Thanh Duy xuất sắc khi giả MC Thanh Bạch">
                     </div>
@@ -62,7 +62,7 @@
             </li>
 
             <li>
-                <a href="http://www.enang.net/guong-mat-trung-binh-cua-cac-nhom-nhac-kpop_post-13619.html">
+                <a href="#">
                     <div class="left-other-post">
                         <img class="img-other-post" src="<?php echo STATIC_PATH ?>/image/0-2.jpg" alt="‘Gương mặt trung bình’ của các nhóm nhạc Kpop">
                     </div>
@@ -71,7 +71,7 @@
             </li>
 
             <li>
-                <a href="http://www.enang.net/10-my-nam-han-dien-trai_post-13563.html">
+                <a href="#">
                     <div class="left-other-post">
                         <img class="img-other-post" src="<?php echo STATIC_PATH ?>/image/sh.jpg" alt="10 mỹ nam Hàn điển trai">
                     </div>
@@ -80,7 +80,7 @@
             </li>
 
             <li>
-                <a href="http://www.enang.net/bo-phim-khe-nut-san-andreas-ra-mat-bat-chap-du-luan_post-13499.html">
+                <a href="#">
                     <div class="left-other-post">
                         <img class="img-other-post" src="<?php echo STATIC_PATH ?>/image/1w.jpg" alt="Bộ phim “Khe nứt San Andreas” ra mắt bất chấp dư luận">
                     </div>
@@ -92,35 +92,6 @@
         </ul>
     </div><!-- end other-post-div-->
 </div><!-- end homecenterNews-->
-
-<div id="homecolLeftNews" class="hidden-xs col-sm-3 hidden-md col-lg-2" style="background-color: none !important;">
-    <div class="news-list">
-        <ul>
-
-            <li>
-                <a href="http://www.enang.net/nhung-vai-dien-noi-bat-man-anh-han_post-13486.html" style="background:url(http://www.enang.net/wp-content/uploads/2015/04/avb-175x92.jpg) no-repeat;width: 117px; height: 80px; display: block; margin-bottom: 8px; background-size: cover;" class="img"><img src="<?php echo STATIC_PATH ?>/image/avb.jpg" alt="Những vai diễn nổi bật màn ảnh Hàn" style="display: none;"></a>
-                <a style="display: block; height: 46px; overflow: hidden;" href="http://www.enang.net/nhung-vai-dien-noi-bat-man-anh-han_post-13486.html" title="Những vai diễn nổi bật màn ảnh Hàn">Những vai diễn nổi bật màn ảnh Hàn </a>
-            </li>
-
-            <li>
-                <a href="http://www.enang.net/nu-hoang-violin-han-quoc-do-sac-cung-thao-trang_post-13507.html" style="background:url(http://www.enang.net/wp-content/uploads/2015/05/jm-175x92.jpg) no-repeat;width: 117px; height: 80px; display: block; margin-bottom: 8px; background-size: cover;" class="img"><img src="<?php echo STATIC_PATH ?>/image/jm.jpg" alt="Nữ hoàng Violin Hàn Quốc đọ sắc cùng Thảo Trang" style="display: none;"></a>
-                <a style="display: block; height: 46px; overflow: hidden;" href="http://www.enang.net/nu-hoang-violin-han-quoc-do-sac-cung-thao-trang_post-13507.html" title="Nữ hoàng Violin Hàn Quốc đọ sắc cùng Thảo Trang">Nữ hoàng Violin Hàn Quốc đọ sắc cùng Thảo Trang </a>
-            </li>
-
-            <li>
-                <a href="http://www.enang.net/da-nang-tai-nan-kinh-hoang-4-nguoi-chet-3-nguoi-bi-thuong_post-13392.html" style="background:url(http://www.enang.net/wp-content/uploads/2015/04/1er-175x92.jpg) no-repeat;width: 117px; height: 80px; display: block; margin-bottom: 8px; background-size: cover;" class="img"><img src="<?php echo STATIC_PATH ?>/image/1er.jpg" alt="Đà Nẵng: Tai nạn kinh hoàng 4 người chết, 3 người bị thương" style="display: none;"></a>
-                <a style="display: block; height: 46px; overflow: hidden;" href="http://www.enang.net/da-nang-tai-nan-kinh-hoang-4-nguoi-chet-3-nguoi-bi-thuong_post-13392.html" title="Đà Nẵng: Tai nạn kinh hoàng 4 người chết, 3 người bị thương">Đà Nẵng: Tai nạn kinh hoàng 4 người chết, 3 người bị thương </a>
-            </li>
-
-            <li>
-                <a href="http://www.enang.net/mau-trung-quoc-trai-long-ve-goc-toi-cuoc-doi_post-13396.html" style="background:url(http://www.enang.net/wp-content/uploads/2015/04/3r-175x92.jpg) no-repeat;width: 117px; height: 80px; display: block; margin-bottom: 8px; background-size: cover;" class="img"><img src="<?php echo STATIC_PATH ?>/image/3r.jpg" alt="Mẫu Trung Quốc trải lòng về góc tối cuộc đời" style="display: none;"></a>
-                <a style="display: block; height: 46px; overflow: hidden;" href="http://www.enang.net/mau-trung-quoc-trai-long-ve-goc-toi-cuoc-doi_post-13396.html" title="Mẫu Trung Quốc trải lòng về góc tối cuộc đời">Mẫu Trung Quốc trải lòng về góc tối cuộc đời </a>
-            </li>
-
-        </ul>
-    </div>
-</div>
-
 <div id="colRightNewsBox" class="hidden-xs hidden-sm col-md-3 col-lg-3">
     <div class="" style="margin-bottom: 5px;">
         <img src="<?php echo STATIC_PATH ?>/image/banner_300x250_1.jpg" alt="banner 300x250">
@@ -132,37 +103,37 @@
 <div id="cafe-webtretho-news" class="hidden-xs">
     <ul class="cafe-post-news">
         <li>
-            <a href="http://www.enang.net/khong-da-xeo-thuy-tien-xoay-thang-vao-bau-hai_post-13401.html">
+            <a href="#">
                 <div class="cafe-image"> <img src="<?php echo STATIC_PATH ?>/image/23r.jpg" alt="Không đá xéo, Thủy Tiên “xoáy” thẳng vào “bầu Hải”"></div>
                 <div class="cafe-title"> Không đá xéo, Thủy Tiên “xoáy” thẳng vào “bầu Hải”</div> </a>
         </li>
 
         <li>
-            <a href="http://www.enang.net/nguoi-nepal-phan-no-vi-chinh-phu-ung-cuu-cham-chap_post-13383.html">
+            <a href="#">
                 <div class="cafe-image"> <img src="<?php echo STATIC_PATH ?>/image/1430191467-s_fdnn_video.jpg" alt="Người Nepal phẫn nộ vì chính phủ ứng cứu chậm chạp"></div>
                 <div class="cafe-title"> Người Nepal phẫn nộ vì chính phủ ứng cứu chậm chạp</div> </a>
         </li>
 
         <li>
-            <a href="http://www.enang.net/dong-dat-nepal-con-so-tu-vong-vuot-4-400_post-13350.html">
+            <a href="#">
                 <div class="cafe-image"> <img src="<?php echo STATIC_PATH ?>/image/v.jpg" alt="Động đất Nepal: Con số tử vong vượt 4.400"></div>
                 <div class="cafe-title"> Động đất Nepal: Con số tử vong vượt 4.400</div> </a>
         </li>
 
         <li>
-            <a href="http://www.enang.net/con-gai-nuoi-quang-le-khac-la-khi-lan-dau-mang-toc-gia_post-13387.html">
+            <a href="#">
                 <div class="cafe-image"> <img src="<?php echo STATIC_PATH ?>/image/fgh.jpg" alt="Con gái nuôi Quang Lê khác lạ khi lần đầu mang tóc giả"></div>
                 <div class="cafe-title"> Con gái nuôi Quang Lê khác lạ khi lần đầu mang tóc giả</div> </a>
         </li>
 
         <li>
-            <a href="http://www.enang.net/ngoc-trinh-thang-tien-nho-con-duong-mua-giai_post-13298.html">
+            <a href="#">
                 <div class="cafe-image"> <img src="<?php echo STATIC_PATH ?>/image/5t.jpg" alt="Ngọc Trinh thăng tiến nhờ “con đường mua giải”"></div>
                 <div class="cafe-title"> Ngọc Trinh thăng tiến nhờ “con đường mua giải”</div> </a>
         </li>
 
         <li>
-            <a href="http://www.enang.net/6-cach-phoi-khien-doi-giay-anh-kim-tro-nen-co-gia_post-13293.html">
+            <a href="#">
                 <div class="cafe-image"> <img src="<?php echo STATIC_PATH ?>/image/5h.jpg" alt="6 cách phối khiến đôi giày ánh kim trở nên “có giá“"></div>
                 <div class="cafe-title"> 6 cách phối khiến đôi giày ánh kim trở nên “có giá“</div> </a>
         </li>
@@ -182,42 +153,42 @@
         <div class="news-list ct_newlist">
             <ul>
                 <li>
-                    <a href="http://www.enang.net/gia-xang-chinh-thuc-cong-3-000-dong-thue-moi-truong_post-13568.html" style="background:url(http://www.enang.net/wp-content/uploads/2015/05/xc.jpg) no-repeat;width: 142px; height: 92px; display: block; margin-bottom: 8px; background-size: cover;" class="img"><img src="<?php echo STATIC_PATH ?>/image/xc.jpg" alt=" Giá xăng chính thức ‘cõng’ 3.000 đồng thuế môi trường" style="display: none;"></a>
-                    <a href="http://www.enang.net/gia-xang-chinh-thuc-cong-3-000-dong-thue-moi-truong_post-13568.html"> Giá xăng chính thức ‘cõng’ 3.000 đồng thuế môi trường </a>
+                    <a href="#" style="background:url(http://www.enang.net/wp-content/uploads/2015/05/xc.jpg) no-repeat;width: 142px; height: 92px; display: block; margin-bottom: 8px; background-size: cover;" class="img"><img src="<?php echo STATIC_PATH ?>/image/xc.jpg" alt=" Giá xăng chính thức ‘cõng’ 3.000 đồng thuế môi trường" style="display: none;"></a>
+                    <a href="#"> Giá xăng chính thức ‘cõng’ 3.000 đồng thuế môi trường </a>
                 </li>
 
                 <li>
-                    <a href="http://www.enang.net/bi-thu-tinh-xay-biet-thu-nuoi-bo_post-13548.html"> Bí thư tỉnh xây “biệt thự” nuôi bò </a>
+                    <a href="#"> Bí thư tỉnh xây “biệt thự” nuôi bò </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/khong-von-khong-bang-cap-khoi-nghiep-the-nao_post-13541.html"> Không vốn, không bằng cấp, khởi nghiệp thế nào? </a>
+                    <a href="#"> Không vốn, không bằng cấp, khởi nghiệp thế nào? </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/kinh-doanh-gi-thu-loi-nhuan-cao-cho-mua-he_post-13530.html"> Kinh doanh gì thu lợi nhuận cao cho mùa hè? </a>
+                    <a href="#"> Kinh doanh gì thu lợi nhuận cao cho mùa hè? </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/em-be-duoc-cuu-song-tu-dong-do-nat-o-nepal_post-13470.html"> Em bé được cứu sống từ đống đổ nát ở Nepal </a>
+                    <a href="#"> Em bé được cứu sống từ đống đổ nát ở Nepal </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/pho-di-bo-nguyen-hue-quan-1-tp-hcm-da-chinh-thuc-mo-cua_post-13460.html"> Phố đi bộ Nguyễn Huệ (quận 1, TP.HCM) đã chính thức mở cửa </a>
+                    <a href="#"> Phố đi bộ Nguyễn Huệ (quận 1, TP.HCM) đã chính thức mở cửa </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/duong-pho-sai-gon-dep-ruc-ro-mung-ngay-giai-phong_post-13422.html"> Đường phố Sài Gòn đẹp rực rỡ mừng ngày giải phóng </a>
+                    <a href="#"> Đường phố Sài Gòn đẹp rực rỡ mừng ngày giải phóng </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/tien-si-nguyen-thien-tong-toi-thuoc-ve-dat-nuoc-nay_post-13345.html"> Tiến sĩ Nguyễn Thiện Tống: “Tôi thuộc về đất nước này” </a>
+                    <a href="#"> Tiến sĩ Nguyễn Thiện Tống: “Tôi thuộc về đất nước này” </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/dau-tim-vi-gia-phong-khach-san-3-sao-gan-50-trieudem_post-13286.html"> “Đau tim” vì giá phòng khách sạn 3 sao gần 50 triệu/đêm </a>
+                    <a href="#"> “Đau tim” vì giá phòng khách sạn 3 sao gần 50 triệu/đêm </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/tranh-gianh-hop-xop-cong-an-xa-dam-tu-vong-hang-xom_post-13240.html"> Tranh giành hộp xốp, công an xã đâm tử vong hàng xóm </a>
+                    <a href="#"> Tranh giành hộp xốp, công an xã đâm tử vong hàng xóm </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/gan-2-500-nguoi-chet-vi-dong-dat-nepal-hon-loan_post-13210.html"> Gần 2.500 người chết vì động đất, Nepal hỗn loạn </a>
+                    <a href="#"> Gần 2.500 người chết vì động đất, Nepal hỗn loạn </a>
                 </li>
                 <li>
-                    <a href="http://www.enang.net/ly-giai-suc-huy-diet-khung-khiep-cua-dong-dat-o-nepal_post-13163.html"> Lý giải sức hủy diệt khủng khiếp của động đất ở Nepal </a>
+                    <a href="#"> Lý giải sức hủy diệt khủng khiếp của động đất ở Nepal </a>
                 </li>
 
             </ul>
@@ -229,7 +200,7 @@
         <div class="item col-xs-6 clearfix">
             <div id="mobile_btn_rea" class="ctn_cateRea mobile_btn_category">
                 <div>
-                    <a href="http://www.enang.net/chuyen-muc/video">
+                    <a href="#">
                         <span>Video</span>
                     </a>
                 </div>
@@ -238,7 +209,7 @@
         <div class="item col-xs-6 clearfix">
             <div id="mobile_btn_conf" class="ctn_cateConf mobile_btn_category">
                 <div>
-                    <a href="http://www.enang.net/chuyen-muc/sao">
+                    <a href="#">
                         <span>Sao</span>
                     </a>
                 </div>
@@ -247,7 +218,7 @@
         <div class="item col-xs-6 clearfix">
             <div id="mobile_btn_bea" class="ctn_cateBea mobile_btn_category">
                 <div>
-                    <a href="http://www.enang.net/chuyen-muc/cine">
+                    <a href="#">
                         <span>Ciné</span>
                     </a>
                 </div>
@@ -256,7 +227,7 @@
         <div class="item col-xs-6 clearfix">
             <div id="mobile_btn_mom" class="ctn_cateMom mobile_btn_category">
                 <div>
-                    <a href="http://www.enang.net/chuyen-muc/musik">
+                    <a href="#">
                         <span>Musik</span>
                     </a>
                 </div>
@@ -265,7 +236,7 @@
         <div class="item col-xs-6 clearfix">
             <div id="mobile_btn_exp" class="ctn_cateExp mobile_btn_category">
                 <div>
-                    <a href="http://www.enang.net/chuyen-muc/lam-dep">
+                    <a href="#">
                         <span>Làm đẹp</span>
                     </a>
                 </div>
@@ -274,7 +245,7 @@
         <div class="item col-xs-6 clearfix">
             <div id="mobile_btn_nang" class="ctn_cateCaf mobile_btn_category">
                 <div>
-                    <a href="http://www.enang.net/chuyen-muc/nang-2">
+                    <a href="#">
                         <span>Nàng 2.0</span>
                     </a>
                 </div>
@@ -290,51 +261,73 @@
         <div id="contentBox">
             <div id="docbao-tabs" class="activeBox nang_wtt">
                 <input class="page cate_slug_box" value="doc-bao" type="hidden">
-                <article class="newsCenter" id="post-13698" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/can-canh-osin-lay-trom-tien-trong-heo-dat_post-13698.html">Cận cảnh osin lấy trộm tiền trong heo đất</a></h4></span><a class="date-post" href="http://www.enang.net/can-canh-osin-lay-trom-tien-trong-heo-dat_post-13698.html">04/05/2015  22:45</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">1</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/can-canh-osin-lay-trom-tien-trong-heo-dat_post-13698.html"><p></p></a><div class="imgArtCt"><em><a href="http://www.enang.net/can-canh-osin-lay-trom-tien-trong-heo-dat_post-13698.html"><img src="<?php echo STATIC_PATH ?>/image/1r.jpg" alt="Cận cảnh osin lấy trộm tiền trong heo đất"></a></em></div></div></div></article><article class="newsCenter" id="post-13695" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/troll-ac-vai_post-13695.html">Troll ác vãi</a></h4></span><a class="date-post" href="http://www.enang.net/troll-ac-vai_post-13695.html">04/05/2015  22:38</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">3</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/troll-ac-vai_post-13695.html"><p></p></a><div class="imgArtCt"><em><a href="http://www.enang.net/troll-ac-vai_post-13695.html"><img src="<?php echo STATIC_PATH ?>/image/2r.jpg" alt="Troll ác vãi"></a></em></div></div></div></article><article class="newsCenter" id="post-13691" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/cuoi-be-bung-may-chu-linh-choi-dai_post-13691.html">cười bể bụng…mấy chú linh chơi dại</a></h4></span><a class="date-post" href="http://www.enang.net/cuoi-be-bung-may-chu-linh-choi-dai_post-13691.html">04/05/2015  21:44</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">3</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/cuoi-be-bung-may-chu-linh-choi-dai_post-13691.html"><p></p></a><div class="imgArtCt"><em><a href="http://www.enang.net/cuoi-be-bung-may-chu-linh-choi-dai_post-13691.html"><img src="<?php echo STATIC_PATH ?>/image/1s.jpg" alt="cười bể bụng…mấy chú linh chơi dại"></a></em></div></div></div></article><article class="newsCenter" id="post-13687" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/khi-phong-vien-gap-tai-nan_post-13687.html">khi phóng viên gặp tai nạn…!!!</a></h4></span><a class="date-post" href="http://www.enang.net/khi-phong-vien-gap-tai-nan_post-13687.html">04/05/2015  21:25</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">5</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/khi-phong-vien-gap-tai-nan_post-13687.html"><p></p></a><div class="imgArtCt"><em><a href="http://www.enang.net/khi-phong-vien-gap-tai-nan_post-13687.html"><img src="<?php echo STATIC_PATH ?>/image/1e.jpg" alt="khi phóng viên gặp tai nạn…!!!"></a></em></div></div></div></article><article class="newsCenter" id="post-13665" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/duy-nhan-hon-me-sau-tinh-trang-nguy-kich_post-13665.html">Duy Nhân hôn mê sâu, tình trạng nguy kịch</a></h4></span><a class="date-post" href="http://www.enang.net/duy-nhan-hon-me-sau-tinh-trang-nguy-kich_post-13665.html">04/05/2015  14:47</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">13</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/duy-nhan-hon-me-sau-tinh-trang-nguy-kich_post-13665.html"><p>Mấy
+
+                <!-- lst article here -->
+                <article class="newsCenter" id="post-13698" style="border-top: 2px solid #eb6f70;">
+                    <div class="autNewsCt row">
+                        <div class="top-box-article">
+                            <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5">
+                                <h4><a href="#">Cận cảnh osin lấy trộm tiền trong heo đất</a></h4>
+                            </span>
+                            <a class="date-post" href="#">04/05/2015  22:45</a>
+                            <div class="icon-list-btn col-lg-4">
+                                <ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">1</span></li></ul>
+                            </div>
+                        </div>
+                        <div class="bottom-box-article">
+                            <a class="link-post-content" href="#"><p></p></a>
+                            <div class="imgArtCt">
+                                <em><a href="#">
+                                        <img src="<?php echo STATIC_PATH ?>/image/1r.jpg" alt="Cận cảnh osin lấy trộm tiền trong heo đất"></a>
+                                </em>
+                            </div>
+                        </div>
+                    </div>
+                </article><article class="newsCenter" id="post-13695" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Troll ác vãi</a></h4></span><a class="date-post" href="#">04/05/2015  22:38</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">3</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p></p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/2r.jpg" alt="Troll ác vãi"></a></em></div></div></div></article><article class="newsCenter" id="post-13691" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">cười bể bụng…mấy chú linh chơi dại</a></h4></span><a class="date-post" href="#">04/05/2015  21:44</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">3</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p></p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/1s.jpg" alt="cười bể bụng…mấy chú linh chơi dại"></a></em></div></div></div></article><article class="newsCenter" id="post-13687" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">khi phóng viên gặp tai nạn…!!!</a></h4></span><a class="date-post" href="#">04/05/2015  21:25</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">5</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p></p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/1e.jpg" alt="khi phóng viên gặp tai nạn…!!!"></a></em></div></div></div></article><article class="newsCenter" id="post-13665" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Duy Nhân hôn mê sâu, tình trạng nguy kịch</a></h4></span><a class="date-post" href="#">04/05/2015  14:47</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">13</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Mấy
                                     ngày nay sức khỏe của Nhân có dấu hiệu yếu đi nhiều. 5h sáng nay, Nhân
                                     bất ngờ rơi vào tình trạng hôn mê sâu và đang được theo dõi đặc biệt.
                                     Các bác sĩ nói gia đình phải chuẩn bị tinh thần Nhân có thể ra đi bất cứ
-                                    lúc nào".</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/duy-nhan-hon-me-sau-tinh-trang-nguy-kich_post-13665.html"><img src="<?php echo STATIC_PATH ?>/image/15.jpg" alt="Duy Nhân hôn mê sâu, tình trạng nguy kịch"></a></em></div></div></div></article><article class="newsCenter" id="post-13660" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/huyen-thoai-stand-by-me-ben-e-king-qua-doi-o-tuoi-76_post-13660.html">Huyền thoại ‘Stand By Me’ – Ben E.King qua đời ở tuổi 76</a></h4></span><a class="date-post" href="http://www.enang.net/huyen-thoai-stand-by-me-ben-e-king-qua-doi-o-tuoi-76_post-13660.html">04/05/2015  14:37</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">9</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/huyen-thoai-stand-by-me-ben-e-king-qua-doi-o-tuoi-76_post-13660.html"><p>Ben
+                                    lúc nào".</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/15.jpg" alt="Duy Nhân hôn mê sâu, tình trạng nguy kịch"></a></em></div></div></div></article><article class="newsCenter" id="post-13660" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Huyền thoại ‘Stand By Me’ – Ben E.King qua đời ở tuổi 76</a></h4></span><a class="date-post" href="#">04/05/2015  14:37</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">9</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Ben
                                     E. King đã qua đời vào ngày 30/4 (giờ địa phương) tại New Jersey, thọ
-                                    76 tuổi và được xác nhận là "qua đời vì nguyên nhân tự nhiên".</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/huyen-thoai-stand-by-me-ben-e-king-qua-doi-o-tuoi-76_post-13660.html"><img src="<?php echo STATIC_PATH ?>/image/14.jpg" alt="Huyền thoại ‘Stand By Me’ – Ben E.King qua đời ở tuổi 76"></a></em></div></div></div></article><article class="newsCenter" id="post-13650" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/tieu-phau-cat-mi-cho-doi-mat-rang-ngoi_post-13650.html">Tiểu phẫu cắt mí cho đôi mắt rạng ngời</a></h4></span><a class="date-post" href="http://www.enang.net/tieu-phau-cat-mi-cho-doi-mat-rang-ngoi_post-13650.html">04/05/2015  13:22</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">12</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/tieu-phau-cat-mi-cho-doi-mat-rang-ngoi_post-13650.html"><p>Cắt
+                                    76 tuổi và được xác nhận là "qua đời vì nguyên nhân tự nhiên".</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/14.jpg" alt="Huyền thoại ‘Stand By Me’ – Ben E.King qua đời ở tuổi 76"></a></em></div></div></div></article><article class="newsCenter" id="post-13650" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Tiểu phẫu cắt mí cho đôi mắt rạng ngời</a></h4></span><a class="date-post" href="#">04/05/2015  13:22</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">12</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Cắt
                                     mí mắt là một tiểu phẫu rất đơn giản, mang lại hiệu quả cao. Đối với
                                     vùng da chùng, da thừa, bác sĩ tại Thu Cúc sẽ đo vẽ thẩm mỹ chính xác,
                                     tiến hành thao tác loại bỏ một cách nhẹ nhàng, khâu đóng thẩm mỹ để tái
-                                    tạo lại nếp mí mắt trên sao cho cân đối</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/tieu-phau-cat-mi-cho-doi-mat-rang-ngoi_post-13650.html"><img src="<?php echo STATIC_PATH ?>/image/12.jpg" alt="Tiểu phẫu cắt mí cho đôi mắt rạng ngời"></a></em></div></div></div></article><article class="newsCenter" id="post-13645" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/10-phim-chuyen-the-tu-tieu-thuyet-cua-nicholas-sparks_post-13645.html">10 phim chuyển thể từ tiểu thuyết của Nicholas Sparks</a></h4></span><a class="date-post" href="http://www.enang.net/10-phim-chuyen-the-tu-tieu-thuyet-cua-nicholas-sparks_post-13645.html">04/05/2015  13:15</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">11</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/10-phim-chuyen-the-tu-tieu-thuyet-cua-nicholas-sparks_post-13645.html"><p>Thu
+                                    tạo lại nếp mí mắt trên sao cho cân đối</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/12.jpg" alt="Tiểu phẫu cắt mí cho đôi mắt rạng ngời"></a></em></div></div></div></article><article class="newsCenter" id="post-13645" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">10 phim chuyển thể từ tiểu thuyết của Nicholas Sparks</a></h4></span><a class="date-post" href="#">04/05/2015  13:15</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">11</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Thu
                                     về 115 triệu USD sau khi ra mắt, song độ nổi tiếng của The Notebook
                                     ngày càng trở nên mạnh mẽ theo thời gian. Bộ phim lọt vào danh sách các
                                     phim tình cảm, cặp tình nhân, nụ hôn xuất sắc nhất trên màn ảnh... trong
                                     nhiều cuộc bình chọn và còn được nhiều khán giả xem như một “Cuốn theo
-                                    chiều gió” của thế kỷ 20.</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/10-phim-chuyen-the-tu-tieu-thuyet-cua-nicholas-sparks_post-13645.html"><img src="<?php echo STATIC_PATH ?>/image/11.jpg" alt="10 phim chuyển thể từ tiểu thuyết của Nicholas Sparks"></a></em></div></div></div></article><article class="newsCenter" id="post-13632" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/hoang-thuy-linh-dep-nhat-tuan-voi-kieu-toc-bat-chuoc-dior_post-13632.html">Hoàng Thùy Linh đẹp nhất tuần với kiểu tóc bắt chước Dior</a></h4></span><a class="date-post" href="http://www.enang.net/hoang-thuy-linh-dep-nhat-tuan-voi-kieu-toc-bat-chuoc-dior_post-13632.html">04/05/2015  13:03</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">11</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/hoang-thuy-linh-dep-nhat-tuan-voi-kieu-toc-bat-chuoc-dior_post-13632.html"><p>Không
+                                    chiều gió” của thế kỷ 20.</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/11.jpg" alt="10 phim chuyển thể từ tiểu thuyết của Nicholas Sparks"></a></em></div></div></div></article><article class="newsCenter" id="post-13632" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Hoàng Thùy Linh đẹp nhất tuần với kiểu tóc bắt chước Dior</a></h4></span><a class="date-post" href="#">04/05/2015  13:03</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">11</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Không
                                     chỉ bắt chước kiểu tóc của Dior, Hoàng Thùy Linh còn cập nhật phong
                                     cách trang điểm hiện đại, xuất hiện trên một số sàn thời trang quốc tế
                                     gần đây. Cô vẽ kiểu mắt mèo có đường line đen đậm và lông mày rậm, lớp
-                                    nền tự nhiên. Nữ ca sĩ hoàn thiện hình ảnh với son môi đỏ tươi.</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/hoang-thuy-linh-dep-nhat-tuan-voi-kieu-toc-bat-chuoc-dior_post-13632.html"><img src="<?php echo STATIC_PATH ?>/image/9.jpg" alt="Hoàng Thùy Linh đẹp nhất tuần với kiểu tóc bắt chước Dior"></a></em></div></div></div></article><article class="newsCenter" id="post-13636" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/voi-phong-cach-retro-hoang-thuy-linh-trang-diem-dep-nhat-tuan-nhat-tuan_post-13636.html">Với phong cách retro Hoàng Thùy Linh trang điểm đẹp nhất tuần nhất tuần</a></h4></span><a class="date-post" href="http://www.enang.net/voi-phong-cach-retro-hoang-thuy-linh-trang-diem-dep-nhat-tuan-nhat-tuan_post-13636.html">04/05/2015  12:55</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">16</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/voi-phong-cach-retro-hoang-thuy-linh-trang-diem-dep-nhat-tuan-nhat-tuan_post-13636.html"><p>Là
+                                    nền tự nhiên. Nữ ca sĩ hoàn thiện hình ảnh với son môi đỏ tươi.</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/9.jpg" alt="Hoàng Thùy Linh đẹp nhất tuần với kiểu tóc bắt chước Dior"></a></em></div></div></div></article><article class="newsCenter" id="post-13636" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Với phong cách retro Hoàng Thùy Linh trang điểm đẹp nhất tuần nhất tuần</a></h4></span><a class="date-post" href="#">04/05/2015  12:55</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">16</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Là
                                     khách mời biểu diễn trong đêm “The Remix” cuối tuần qua, Hoàng Thùy
                                     Linh không chỉ cuốn hút bằng trang phục biểu diễn rực rỡ mà còn nhờ
-                                    gương mặt được trang điểm kỹ lưỡng.</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/voi-phong-cach-retro-hoang-thuy-linh-trang-diem-dep-nhat-tuan-nhat-tuan_post-13636.html"><img src="<?php echo STATIC_PATH ?>/image/8.jpg" alt="Với phong cách retro Hoàng Thùy Linh trang điểm đẹp nhất tuần nhất tuần"></a></em></div></div></div></article><article class="newsCenter" id="post-13628" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/do-gene-de-phat-hien-ung-thu-truoc-13-nam_post-13628.html">Đo gene để phát hiện ung thư trước 13 năm</a></h4></span><a class="date-post" href="http://www.enang.net/do-gene-de-phat-hien-ung-thu-truoc-13-nam_post-13628.html">04/05/2015  12:31</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">14</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/do-gene-de-phat-hien-ung-thu-truoc-13-nam_post-13628.html"><p>những
+                                    gương mặt được trang điểm kỹ lưỡng.</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/8.jpg" alt="Với phong cách retro Hoàng Thùy Linh trang điểm đẹp nhất tuần nhất tuần"></a></em></div></div></div></article><article class="newsCenter" id="post-13628" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Đo gene để phát hiện ung thư trước 13 năm</a></h4></span><a class="date-post" href="#">04/05/2015  12:31</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">14</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>những
                                     thay đổi nhỏ nhưng quan trọng bắt đầu xảy ra ngay trong gene hơn 10 năm
                                     trước khi ung thư được chẩn đoán. Trong nghiên cứu đăng trên
                                     Ebiomedicine, họ phát hiện đoạn cuối nhiễm sắc thể telomere bị bào mòn
-                                    nhiều hơn ở người sẽ phát triển ung thư sau này.</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/do-gene-de-phat-hien-ung-thu-truoc-13-nam_post-13628.html"><img src="<?php echo STATIC_PATH ?>/image/7.jpg" alt="Đo gene để phát hiện ung thư trước 13 năm"></a></em></div></div></div></article><article class="newsCenter" id="post-13623" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/nhung-hot-boy-dac-biet-o-vong-loai-cua-vietnam-idol_post-13623.html">Những hot boy đặc biệt ở vòng loại của Vietnam Idol</a></h4></span><a class="date-post" href="http://www.enang.net/nhung-hot-boy-dac-biet-o-vong-loai-cua-vietnam-idol_post-13623.html">04/05/2015  08:24</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">19</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/nhung-hot-boy-dac-biet-o-vong-loai-cua-vietnam-idol_post-13623.html"><p>Vietnam
+                                    nhiều hơn ở người sẽ phát triển ung thư sau này.</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/7.jpg" alt="Đo gene để phát hiện ung thư trước 13 năm"></a></em></div></div></div></article><article class="newsCenter" id="post-13623" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Những hot boy đặc biệt ở vòng loại của Vietnam Idol</a></h4></span><a class="date-post" href="#">04/05/2015  08:24</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">19</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Vietnam
                                     Idol sẽ phần nào xóa bỏ định kiến của khán giả về những người xăm trổ
                                     như anh. Không phải lúc nào những người có ngoại hình cá tính đều phải
-                                    hát rock và gầm rú tạo vẻ đáng sợ. </p></a><div class="imgArtCt"><em><a href="http://www.enang.net/nhung-hot-boy-dac-biet-o-vong-loai-cua-vietnam-idol_post-13623.html"><img src="<?php echo STATIC_PATH ?>/image/0-5.jpg" alt="Những hot boy đặc biệt ở vòng loại của Vietnam Idol"></a></em></div></div></div></article><article class="newsCenter" id="post-13609" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/dam-vinh-hung-dau-don-vi-ong-ngoai-qua-doi_post-13609.html">Đàm Vĩnh Hưng đau đớn vì ông ngoại qua đời</a></h4></span><a class="date-post" href="http://www.enang.net/dam-vinh-hung-dau-don-vi-ong-ngoai-qua-doi_post-13609.html">04/05/2015  07:47</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">14</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/dam-vinh-hung-dau-don-vi-ong-ngoai-qua-doi_post-13609.html"><p>Tang lễ tại số 72 Trần Mai Ninh p.12 quận Tân Bình
-                                    Xin cảm ơn đến tất cả bạn bè thân hữu gần xa đã chia buồn cùng Hưng và gia đình nhé” </p></a><div class="imgArtCt"><em><a href="http://www.enang.net/dam-vinh-hung-dau-don-vi-ong-ngoai-qua-doi_post-13609.html"><img src="<?php echo STATIC_PATH ?>/image/6.jpg" alt="Đàm Vĩnh Hưng đau đớn vì ông ngoại qua đời"></a></em></div></div></div></article><article class="newsCenter" id="post-13558" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/nhung-hot-girl-lam-dien-dao-cong-dong-mang_post-13558.html">Những hot girl lam “điên đảo” cộng đồng mạng</a></h4></span><a class="date-post" href="http://www.enang.net/nhung-hot-girl-lam-dien-dao-cong-dong-mang_post-13558.html">01/05/2015  18:36</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">16</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/nhung-hot-girl-lam-dien-dao-cong-dong-mang_post-13558.html"><p>Sở
+                                    hát rock và gầm rú tạo vẻ đáng sợ. </p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/0-5.jpg" alt="Những hot boy đặc biệt ở vòng loại của Vietnam Idol"></a></em></div></div></div></article><article class="newsCenter" id="post-13609" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Đàm Vĩnh Hưng đau đớn vì ông ngoại qua đời</a></h4></span><a class="date-post" href="#">04/05/2015  07:47</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">14</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Tang lễ tại số 72 Trần Mai Ninh p.12 quận Tân Bình
+                                    Xin cảm ơn đến tất cả bạn bè thân hữu gần xa đã chia buồn cùng Hưng và gia đình nhé” </p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/6.jpg" alt="Đàm Vĩnh Hưng đau đớn vì ông ngoại qua đời"></a></em></div></div></div></article><article class="newsCenter" id="post-13558" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Những hot girl lam “điên đảo” cộng đồng mạng</a></h4></span><a class="date-post" href="#">01/05/2015  18:36</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">16</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Sở
                                     hữu một shop thời trang được nhiều bạn trẻ yêu mến, cô còn có trong tay
                                     một studio để dành cho những khách hàng có nhu cầu chụp hình thời
-                                    trang.</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/nhung-hot-girl-lam-dien-dao-cong-dong-mang_post-13558.html"><img src="<?php echo STATIC_PATH ?>/image/6u.jpg" alt="Những hot girl lam “điên đảo” cộng đồng mạng"></a></em></div></div></div></article><article class="newsCenter" id="post-13553" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/diem-du-lich-dong-nghit-khach_post-13553.html">Điểm du lịch đông nghịt khách</a></h4></span><a class="date-post" href="http://www.enang.net/diem-du-lich-dong-nghit-khach_post-13553.html">01/05/2015  17:56</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">15</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/diem-du-lich-dong-nghit-khach_post-13553.html"><p>Để
+                                    trang.</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/6u.jpg" alt="Những hot girl lam “điên đảo” cộng đồng mạng"></a></em></div></div></div></article><article class="newsCenter" id="post-13553" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Điểm du lịch đông nghịt khách</a></h4></span><a class="date-post" href="#">01/05/2015  17:56</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">15</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Để
                                     phục vụ du khách, Cửa Lò có 270 khách sạn với 8.000 phòng. Trong đó
                                     khách sạn 4 sao có 200 phòng giá 1,5-2 triệu đồng/phòng, các phòng trung
                                     bình giá 500.000-1.000.000 đồng/phòng. Tuy nhiên, do lượng khách đổ về
-                                    quá đông dẫn đến các khách sạn đều "cháy" phòng từ trước 27/4.</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/diem-du-lich-dong-nghit-khach_post-13553.html"><img src="<?php echo STATIC_PATH ?>/image/ks.jpg" alt="Điểm du lịch đông nghịt khách"></a></em></div></div></div></article><article class="newsCenter" id="post-13536" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/thit-ga-vi-thuoc-quy-it-hon-nhung-gi-ban-da-biet_post-13536.html">Thịt gà: Vị thuốc quý ít hơn những gì bạn đã biết</a></h4></span><a class="date-post" href="http://www.enang.net/thit-ga-vi-thuoc-quy-it-hon-nhung-gi-ban-da-biet_post-13536.html">01/05/2015  16:51</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">18</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/thit-ga-vi-thuoc-quy-it-hon-nhung-gi-ban-da-biet_post-13536.html"><p>Đây
+                                    quá đông dẫn đến các khách sạn đều "cháy" phòng từ trước 27/4.</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/ks.jpg" alt="Điểm du lịch đông nghịt khách"></a></em></div></div></div></article><article class="newsCenter" id="post-13536" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Thịt gà: Vị thuốc quý ít hơn những gì bạn đã biết</a></h4></span><a class="date-post" href="#">01/05/2015  16:51</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">18</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>Đây
                                     là một tác dụng vô cùng lớn của thịt gà với sức khỏe, đặc biệt là với
                                     chị em phụ nữ. Thịt gà được các nhà dinh dưỡng học khuyên dùng để phòng
-                                    tránh ung thư vú ở nữ giới.</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/thit-ga-vi-thuoc-quy-it-hon-nhung-gi-ban-da-biet_post-13536.html"><img src="<?php echo STATIC_PATH ?>/image/gg.jpg" alt="Thịt gà: Vị thuốc quý ít hơn những gì bạn đã biết"></a></em></div></div></div></article><article class="newsCenter" id="post-13525" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/hanh-trinh-len-doi-nhan-sac-cua-loat-sao-nam-viet_post-13525.html">Hành trình “lên đời” nhan sắc của loạt sao nam Việt</a></h4></span><a class="date-post" href="http://www.enang.net/hanh-trinh-len-doi-nhan-sac-cua-loat-sao-nam-viet_post-13525.html">01/05/2015  15:15</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">20</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/hanh-trinh-len-doi-nhan-sac-cua-loat-sao-nam-viet_post-13525.html"><p>các
+                                    tránh ung thư vú ở nữ giới.</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/gg.jpg" alt="Thịt gà: Vị thuốc quý ít hơn những gì bạn đã biết"></a></em></div></div></div></article><article class="newsCenter" id="post-13525" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Hành trình “lên đời” nhan sắc của loạt sao nam Việt</a></h4></span><a class="date-post" href="#">01/05/2015  15:15</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">20</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>các
                                     sao Việt thường ngây ngô, giản dị cũng là điều dễ hiểu. Bởi lẽ thời đó,
                                     họ chưa biết chú trọng và chăm chút vẻ ngoài như bây giờ. Hiện tại,
                                     không chỉ sao nữ, mà những nhan sắc của những sao nam này cũng đã “lên
-                                    đời” một cách rõ rệt. </p></a><div class="imgArtCt"><em><a href="http://www.enang.net/hanh-trinh-len-doi-nhan-sac-cua-loat-sao-nam-viet_post-13525.html"><img src="<?php echo STATIC_PATH ?>/image/3.jpg" alt="Hành trình “lên đời” nhan sắc của loạt sao nam Việt"></a></em></div></div></div></article><article class="newsCenter" id="post-13512" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="http://www.enang.net/nhung-nguoi-luoi-bieng-nhat-qua-dat_post-13512.html">Những người lười biếng nhất quả đất</a></h4></span><a class="date-post" href="http://www.enang.net/nhung-nguoi-luoi-bieng-nhat-qua-dat_post-13512.html">01/05/2015  14:04</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">23</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="http://www.enang.net/nhung-nguoi-luoi-bieng-nhat-qua-dat_post-13512.html"><p>khả năng sáng tạo của họ là "vô đối", họ sẽ khiến bạn phải bật cười.</p></a><div class="imgArtCt"><em><a href="http://www.enang.net/nhung-nguoi-luoi-bieng-nhat-qua-dat_post-13512.html"><img src="<?php echo STATIC_PATH ?>/image/vd.jpg" alt="Những người lười biếng nhất quả đất"></a></em></div></div></div></article><input class="lastpost_date" value="2015-05-01 14:04:22" type="hidden">				                </div>
+                                    đời” một cách rõ rệt. </p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/3.jpg" alt="Hành trình “lên đời” nhan sắc của loạt sao nam Việt"></a></em></div></div></div></article><article class="newsCenter" id="post-13512" style="border-top: 2px solid #eb6f70;"><div class="autNewsCt row"><div class="top-box-article"> <span class="ctnAutCt col-md-10 col-sm-10 col-xs-9 col-lg-5"><h4><a href="#">Những người lười biếng nhất quả đất</a></h4></span><a class="date-post" href="#">01/05/2015  14:04</a><div class="icon-list-btn col-lg-4"><ul><li><span title="Cảm ơn"><i class="fa fa-heart"></i></span><br><span class="value-btn">0</span></li><li><a title="Chia sẻ" class="btn-shareface" data-gtmname="chia-se" rel="nofollow" target="_blank" href="#"><span><i class="fa fa-share-alt"></i></span><br><span class="value-btn">0</span></a></li><li><span title="Lượt xem"><i class="fa fa-eye"></i></span><br><span class="value-btn">23</span></li></ul></div></div><div class="bottom-box-article"><a class="link-post-content" href="#"><p>khả năng sáng tạo của họ là "vô đối", họ sẽ khiến bạn phải bật cười.</p></a><div class="imgArtCt"><em><a href="#"><img src="<?php echo STATIC_PATH ?>/image/vd.jpg" alt="Những người lười biếng nhất quả đất"></a></em></div></div></div></article><input class="lastpost_date" value="2015-05-01 14:04:22" type="hidden">				                </div>
         </div><!-- end contentBox-->
     </div><!-- end gotoCenter-->
     <div id="loadmoreajaxloader" style="display: none;">
@@ -348,7 +341,7 @@
 <div class="baivietyeuthich">
     <ul class="baiviet-list">
         <li>
-            <a href="http://www.enang.net/video/be-5-tuoi-mua-con-nhu-ly-tieu-long">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/1a.jpg" alt="Bé 5 tuổi múa côn như lý tiểu long">
                 </div>
@@ -359,7 +352,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/ca-hoi-truong-tro-mat-voi-anh-ay">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/1q.jpg" alt="cả hội trường trồ mắt với anh ấy">
                 </div>
@@ -370,7 +363,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/ban-giam-khao-nao-loan-boi-tiet-muc-cua-anh-ay">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/1w1.jpg" alt="Ban giám khảo náo loạn bởi tiết mục của anh ấy">
                 </div>
@@ -381,7 +374,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/nhay-dieu-gi-day">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/16.jpg" alt="nhảy điệu gì đây ???">
                 </div>
@@ -392,7 +385,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/choi-ngu-nhat-hanh-tinh">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/13.jpg" alt="chơi ngu nhất hành tinh">
                 </div>
@@ -403,7 +396,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/hai-anh-chang-chem-gio-khong-kiep-tho">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/5.jpg" alt="Hai anh chàng chém gió không kiệp thở">
                 </div>
@@ -421,7 +414,7 @@
 <div class="baivietyeuthich">
     <ul class="baiviet-list">
         <li>
-            <a href="http://www.enang.net/video/cuoi-be-bung-may-chu-linhcanh-sat">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/1.jpg" alt="Cười bể bụng…máy chú lính,cảnh sát">
                 </div>
@@ -432,7 +425,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/the-moi-hai-chu">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/js.jpg" alt="thế mới hài chứ">
                 </div>
@@ -443,7 +436,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/cho-nhung-ai-thich-tu-suong">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/tx.jpg" alt="cho những ai thích tử sướng">
                 </div>
@@ -454,7 +447,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/ngay-le-nen-an-gi-day">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/nl.jpg" alt="Ngày lễ nên ăn gì đây ?">
                 </div>
@@ -465,7 +458,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/dang-bom-xang-mot-nguoi-la-den">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/q1.jpg" alt="Đang bơm xăng một người lạ đến">
                 </div>
@@ -476,7 +469,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/nguoi-nay-la-ai-den-noi-hang-tram-canh-sat-cung-phai-so-hai">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/dg1.jpg" alt="người này là ai đến nổi hàng trăm cảnh sát cũng phải sợ hãi">
                 </div>
@@ -494,7 +487,7 @@
 <div class="baivietyeuthich">
     <ul class="baiviet-list">
         <li>
-            <a href="http://www.enang.net/video/13416">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/q3.jpg" alt="Giọng hát kinh khủng nhất của nam ca sĩ đến từ quả đất">
                 </div>
@@ -505,7 +498,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/kinh-hoang-tran-dong-dat-vua-moi-xay-ra-o-tay-tang">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/ttr.jpg" alt="Kinh hoàng trận động đất vừa mới xảy ra ở tay tạng">
                 </div>
@@ -516,7 +509,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/cuoc-thu-lua-giua-iphone-6-vs-samsung-galaxy-s5">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/c.jpg" alt="Cuộc thử lửa giữa iPhone 6 vs Samsung Galaxy S5">
                 </div>
@@ -527,7 +520,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/chuong-trinh-phong-van-nhom-leggo-team">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/561.jpg" alt="Chương trình phỏng vấn nhóm [LEGGO TEAM]">
                 </div>
@@ -538,7 +531,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/trailer-game-call-of-duty-black-ops-iii">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/t.jpg" alt="Trailer game Call of Duty®: Black Ops III">
                 </div>
@@ -549,7 +542,7 @@
             </a>
         </li>
         <li>
-            <a href="http://www.enang.net/video/hai-thanh-nien-cung-dap-pha-xe-canh-sat">
+            <a href="#">
                 <div class="avatar-img">
                     <img src="<?php echo STATIC_PATH ?>/image/xv.png" alt="Hai thanh niên cứng đập phá xe cảnh sát">
                 </div>
@@ -569,7 +562,7 @@
     <div class="baivietyeuthich">
         <ul class="baiviet-list">
             <li>
-                <a href="http://www.enang.net/top-10-dia-diem-du-lich-hap-dan-nhat-viet-nam_post-4964.html">
+                <a href="#">
                     <div class="avatar-img">
                         <img src="<?php echo STATIC_PATH ?>/image/1.jpeg" alt="Top 10 địa điểm du lịch hấp dẫn nhất Việt Nam">
                     </div>
@@ -580,7 +573,7 @@
                 </a>
             </li>
             <li>
-                <a href="http://www.enang.net/ca-si-viet-nguoi-tram-cam-ke-nhap-vien-vi-ap-luc-showbiz_post-10191.html">
+                <a href="#">
                     <div class="avatar-img">
                         <img src="<?php echo STATIC_PATH ?>/image/huong1.jpg" alt="Ca sĩ Việt: Người trầm cảm, kẻ nhập viện vì áp lực showbiz">
                     </div>
@@ -591,7 +584,7 @@
                 </a>
             </li>
             <li>
-                <a href="http://www.enang.net/ro-thong-tin-tang-thanh-ha-sinh-con-trai-dau-long-vao-trua-nay_post-10583.html">
+                <a href="h#">
                     <div class="avatar-img">
                         <img src="<?php echo STATIC_PATH ?>/image/1390491700-1384306879-19.jpg" alt="Rộ thông tin Tăng Thanh Hà sinh con trai đầu lòng vào trưa nay">
                     </div>
@@ -602,7 +595,7 @@
                 </a>
             </li>
             <li>
-                <a href="http://www.enang.net/tuoi-thanh-xuan-hinh-anh-lang-man-nhu-mo-cua-linh-junsu-o-vn_post-9458.html">
+                <a href="#">
                     <div class="avatar-img">
                         <img src="<?php echo STATIC_PATH ?>/image/15df0364-69ba-4aaf-a440-fd9ab43b9666.jpg" alt="Tuổi thanh xuân: Hình ảnh lãng mạn như mơ của Linh – Junsu ở VN">
                     </div>
@@ -613,7 +606,7 @@
                 </a>
             </li>
             <li>
-                <a href="http://www.enang.net/10-loi-khuyen-kinh-dien-cho-chuyen-du-lich-hoan-hao_post-4834.html">
+                <a href="#">
                     <div class="avatar-img">
                         <img src="<?php echo STATIC_PATH ?>/image/Sotaydulich_Loi_khuyen_du_lich_8.jpg" alt="10 lời khuyên kinh điển cho chuyến du lịch hoàn hảo">
                     </div>
@@ -624,7 +617,7 @@
                 </a>
             </li>
             <li>
-                <a href="http://www.enang.net/he-lo-hinh-cuoi-cua-duong-trieu-vu_post-10588.html">
+                <a href="#">
                     <div class="avatar-img">
                         <img src="<?php echo STATIC_PATH ?>/image/1428368547_6D0A0304.jpg" alt="Hé lộ hình cưới của Dương Triệu Vũ">
                     </div>

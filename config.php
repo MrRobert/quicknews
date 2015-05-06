@@ -2,7 +2,7 @@
 define('IMAGE_BASE','image/');
 define('DIR_ROOT_NAME','quicknews');
 define('DIR_APP_NAME', 'catalog');
-define('ROOT_PATH', '/var/www/html/');
+define('ROOT_PATH', 'D:/xampp/htdocs/');
 define('PROJECT_PATH', ROOT_PATH. DIR_ROOT_NAME);
 // HTTP
 define('HTTP_SERVER', 'http://localhost/'. DIR_ROOT_NAME .'/');

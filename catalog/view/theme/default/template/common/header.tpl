@@ -8,23 +8,19 @@
 <meta name="keywords" content="Web Tuổi Teen l Kênh tin tức đời sống giới trẻ l Trang tin giải trí">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="shortcut icon" href="http://www.enang.net/favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://www.enang.net/favicon.ico" type="image/x-icon">
-
 <link rel="stylesheet" href="<?php echo STATIC_PATH ?>/css/style.css">
 
-<link rel="pingback" href="http://www.enang.net/xmlrpc.php">
 <script src="<?php echo STATIC_PATH ?>/js/sdk.js" id="facebook-jssdk"></script>
 <script src="<?php echo STATIC_PATH ?>/js/analytics.js" async=""></script>
 <script src="<?php echo STATIC_PATH ?>/js/jquery_002.js"></script>
 <link type="text/css" rel="stylesheet" href="<?php echo STATIC_PATH ?>/css/font-awesome.css">
 <!--[if IE ]>
-<link type="text/css" media="all" rel="stylesheet" href="http://www.enang.net/wp-content/themes/enang/css/ie.css"/>
+<link type="text/css" media="all" rel="stylesheet" href="#wp-content/themes/enang/css/ie.css"/>
 <![endif]-->
 <!--[if lt IE 9]>
-<script src="http://www.enang.net/wp-content/themes/enang/js/html5.js"></script><![endif]-->
+<script src="#wp-content/themes/enang/js/html5.js"></script><![endif]-->
 <!--[if IE 8]>
-<script src="http://www.enang.net/wp-content/themes/enang/js/respond.src.js"></script><![endif]-->
+<script src="#wp-content/themes/enang/js/respond.src.js"></script><![endif]-->
 <!--[if !IE]><!-->
 
 <script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/jquery.js"></script>
@@ -35,8 +31,8 @@
     /* ]]> */
 </script>
 <script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/ajax.js"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.enang.net/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.enang.net/wp-includes/wlwmanifest.xml">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="#xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="#wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 4.1.4">
 <script src="<?php echo STATIC_PATH ?>/js/bootstrap.js"></script>
 <script src="<?php echo STATIC_PATH ?>/js/main.js"></script>
@@ -69,38 +65,25 @@
 <header>
 <div class="navcontain navbar navbar-default cus_nav">
     <div class="container">
-    <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
-        <a href="http://www.enang.net/" class="navbar-brand" style="margin-right: 30px;"><img src="<?php echo STATIC_PATH ?>/image/logo.png" alt="logo"></a>
-        <ul id="nav" class="nav navbar-nav">
-            <li class="digital ">
-                <a href="http://www.enang.net/chuyen-muc/video"><span class="nav_point"></span>VIDEO</a>
-                <div class="lstEnt">
-                    <ul class="ctn_lstNav">
-                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/sao-video">SAO</a></li>
-                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/musik-video">MUSIK</a></li>
-                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/cine-video">CINÉ</a></li>
-                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/lam-dep-video">ĐẸP</a></li>
-                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/cuoi-hai-video">CƯỜI HÀI</a></li>
-                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/soc-bua-video">SÓC BỰA</a></li>
-                    </ul>
-                </div>
-            </li>
-            <li class="interior "><a href="http://www.enang.net/chuyen-muc/sao"><span class="nav_point"></span>SAO</a></li>
-            <li class="digital "><a href="http://www.enang.net/chuyen-muc/cine"><span class="nav_point"></span>CINÉ</a></li>
-            <li class="interior "><a href="http://www.enang.net/chuyen-muc/musik"><span class="nav_point"></span>MUSIK</a></li>
-            <li class="food "><a href="http://www.enang.net/chuyen-muc/lam-dep"><span class="nav_point"></span>ĐẸP</a></li>
-            <li class="goods "><a href="http://www.enang.net/chuyen-muc/nang-2"><span class="nav_point"></span>NÀNG 2.0</a></li>
-            <li class="travel "><a href="http://www.enang.net/chuyen-muc/beat-chang"><span class="nav_point"></span>BEAT CHÀNG</a></li>
-            <li class="fashion "><a href="http://www.enang.net/chuyen-muc/soc-bua"><span class="nav_point"></span>SỐC &amp; BỰA</a></li>
-            <li class="travel "><a href="http://www.enang.net/chuyen-muc/cuoi-hai"><span class="nav_point"></span>CƯỜI &amp; HÀI</a></li>
-            <li class="digital "><a href="http://www.enang.net/chuyen-muc/la-cool"><span class="nav_point"></span>LẠ &amp; COOL</a></li>
-            <li class="show"><a href="http://www.zotatv.com/" target="_blank" style="text-transform: none;"><span class="nav_point"></span>ZotaTV</a></li>
-        </ul>
+        <div class="navbar-header">
+            <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a style="margin-right: 30px;" class="navbar-brand" href="#"><img style="width: 89px; height: 38px;" alt="logo" src="<?php echo STATIC_PATH ?>/image/logo.png"></a>
+            <ul class="nav navbar-nav" id="nav">
+                <li class="interior "><a href="#"><span class="nav_point"></span>Làng Sao</a></li>
+                <li class="digital "><a href="#"><span class="nav_point"></span>Tin trong nước</a></li>
+                <li class="interior "><a href="#"><span class="nav_point"></span>Tin quốc tế</a></li>
+                <li class="goods "><a href="#"><span class="nav_point"></span>Phụ nữ</a></li>
+                <li class="travel "><a href="#"><span class="nav_point"></span>Menly</a></li>
+                <li class="fashion "><a href="#"><span class="nav_point"></span>Xả stress</a></li>
+                <li class="travel "><a href="#"><span class="nav_point"></span>Video</a></li>
+                <li class="digital "><a href="http://www.quicktv.com.vn" target="_blank" style="text-transform: none;"><span class="nav_point"></span>QuickMusic</a></li>
+                <li class="show"><a style="text-transform: none;" target="_blank" href="http://www.zotatv.com"><span class="nav_point"></span>QuickTV</a></li>
+            </ul>
+        </div>
     </div>
 </div>
-</div></header>
+</header>
