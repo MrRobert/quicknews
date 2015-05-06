@@ -8,6 +8,10 @@ define('PROJECT_PATH', ROOT_PATH. DIR_ROOT_NAME);
 define('HTTP_SERVER', 'http://localhost/'. DIR_ROOT_NAME .'/');
 // HTTPS
 define('HTTPS_SERVER', 'http://localhost/'. DIR_ROOT_NAME .'/');
+
+// static files
+define('STATIC_PATH', 'http://localhost/'. DIR_ROOT_NAME .'/'. DIR_APP_NAME . '/view/theme/default');
+
 // DIR
 define('DIR_APPLICATION', PROJECT_PATH .'/' . DIR_APP_NAME .'/');
 define('DIR_SYSTEM', PROJECT_PATH .'/system/');

@@ -1,119 +1,106 @@
 <!DOCTYPE html>
-<!--[if IE]><![endif]-->
-<!--[if IE 8 ]><html dir="<?php echo $direction; ?>" lang="<?php echo $lang; ?>" class="ie8"><![endif]-->
-<!--[if IE 9 ]><html dir="<?php echo $direction; ?>" lang="<?php echo $lang; ?>" class="ie9"><![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<html dir="<?php echo $direction; ?>" lang="<?php echo $lang; ?>">
-<!--<![endif]-->
+<html style="margin-top: 0 !important;">
 <head>
-<meta charset="UTF-8" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<title></title>
+<meta name="description" content="Enang – kênh thông tin dành cho giới trẻ">
+<meta name="keywords" content="Web Tuổi Teen l Kênh tin tức đời sống giới trẻ l Trang tin giải trí">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title><?php echo $title; ?></title>
-<base href="<?php echo $base; ?>" />
-<?php if ($description) { ?>
-<meta name="description" content="<?php echo $description; ?>" />
-<?php } ?>
-<?php if ($keywords) { ?>
-<meta name="keywords" content= "<?php echo $keywords; ?>" />
-<?php } ?>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<?php if ($icon) { ?>
-<link href="<?php echo $icon; ?>" rel="icon" />
-<?php } ?>
-<?php foreach ($links as $link) { ?>
-<link href="<?php echo $link['href']; ?>" rel="<?php echo $link['rel']; ?>" />
-<?php } ?>
-<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
-<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
-<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-<link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme/default/stylesheet/stylesheet.css" rel="stylesheet">
-<?php foreach ($styles as $style) { ?>
-<link href="<?php echo $style['href']; ?>" type="text/css" rel="<?php echo $style['rel']; ?>" media="<?php echo $style['media']; ?>" />
-<?php } ?>
-<script src="catalog/view/javascript/common.js" type="text/javascript"></script>
-<?php foreach ($scripts as $script) { ?>
-<script src="<?php echo $script; ?>" type="text/javascript"></script>
-<?php } ?>
-<?php echo $google_analytics; ?>
+
+<link rel="shortcut icon" href="http://www.enang.net/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.enang.net/favicon.ico" type="image/x-icon">
+
+<link rel="stylesheet" href="<?php echo STATIC_PATH ?>/css/style.css">
+
+<link rel="pingback" href="http://www.enang.net/xmlrpc.php">
+<script src="<?php echo STATIC_PATH ?>/js/sdk.js" id="facebook-jssdk"></script>
+<script src="<?php echo STATIC_PATH ?>/js/analytics.js" async=""></script>
+<script src="<?php echo STATIC_PATH ?>/js/jquery_002.js"></script>
+<link type="text/css" rel="stylesheet" href="<?php echo STATIC_PATH ?>/css/font-awesome.css">
+<!--[if IE ]>
+<link type="text/css" media="all" rel="stylesheet" href="http://www.enang.net/wp-content/themes/enang/css/ie.css"/>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://www.enang.net/wp-content/themes/enang/js/html5.js"></script><![endif]-->
+<!--[if IE 8]>
+<script src="http://www.enang.net/wp-content/themes/enang/js/respond.src.js"></script><![endif]-->
+<!--[if !IE]><!-->
+
+<script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/jquery.js"></script>
+<script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/jquery-migrate.js"></script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var AJAX = {"url":"http:\/\/www.enang.net\/wp-admin\/admin-ajax.php"};
+    /* ]]> */
+</script>
+<script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/ajax.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.enang.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.enang.net/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 4.1.4">
+<script src="<?php echo STATIC_PATH ?>/js/bootstrap.js"></script>
+<script src="<?php echo STATIC_PATH ?>/js/main.js"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-60198620-1', 'auto');
+    ga('send', 'pageview');
+</script>
+<style type="text/css">
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+</style>
 </head>
-<body class="<?php echo $class; ?>">
-<nav id="top">
-  <div class="container">
-    <?php echo $currency; ?>
-    <?php echo $language; ?>
-    <div id="top-links" class="nav pull-right">
-      <ul class="list-inline">
-        <li><a href="<?php echo $contact; ?>"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md"><?php echo $telephone; ?></span></li>
-        <li class="dropdown"><a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_account; ?></span> <span class="caret"></span></a>
-          <ul class="dropdown-menu dropdown-menu-right">
-            <?php if ($logged) { ?>
-            <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
-            <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
-            <li><a href="<?php echo $transaction; ?>"><?php echo $text_transaction; ?></a></li>
-            <li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>
-            <li><a href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a></li>
-            <?php } else { ?>
-            <li><a href="<?php echo $register; ?>"><?php echo $text_register; ?></a></li>
-            <li><a href="<?php echo $login; ?>"><?php echo $text_login; ?></a></li>
-            <?php } ?>
-          </ul>
-        </li>
-        <li><a href="<?php echo $wishlist; ?>" id="wishlist-total" title="<?php echo $text_wishlist; ?>"><i class="fa fa-heart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_wishlist; ?></span></a></li>
-        <li><a href="<?php echo $shopping_cart; ?>" title="<?php echo $text_shopping_cart; ?>"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_shopping_cart; ?></span></a></li>
-        <li><a href="<?php echo $checkout; ?>" title="<?php echo $text_checkout; ?>"><i class="fa fa-share"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_checkout; ?></span></a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
+<body>
+<div class=" fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--Fix Navigation Bar with drop down menu -->
 <header>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-4">
-        <div id="logo">
-          <?php if ($logo) { ?>
-          <a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>
-          <?php } else { ?>
-          <h1><a href="<?php echo $home; ?>"><?php echo $name; ?></a></h1>
-          <?php } ?>
-        </div>
-      </div>
-      <div class="col-sm-5"><?php echo $search; ?>
-      </div>
-      <div class="col-sm-3"><?php echo $cart; ?></div>
+<div class="navcontain navbar navbar-default cus_nav">
+    <div class="container">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a href="http://www.enang.net/" class="navbar-brand" style="margin-right: 30px;"><img src="<?php echo STATIC_PATH ?>/image/logo.png" alt="logo"></a>
+        <ul id="nav" class="nav navbar-nav">
+            <li class="digital ">
+                <a href="http://www.enang.net/chuyen-muc/video"><span class="nav_point"></span>VIDEO</a>
+                <div class="lstEnt">
+                    <ul class="ctn_lstNav">
+                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/sao-video">SAO</a></li>
+                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/musik-video">MUSIK</a></li>
+                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/cine-video">CINÉ</a></li>
+                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/lam-dep-video">ĐẸP</a></li>
+                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/cuoi-hai-video">CƯỜI HÀI</a></li>
+                        <li class="menu-item"><a href="http://www.enang.net/chuyen-muc/video/soc-bua-video">SÓC BỰA</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="interior "><a href="http://www.enang.net/chuyen-muc/sao"><span class="nav_point"></span>SAO</a></li>
+            <li class="digital "><a href="http://www.enang.net/chuyen-muc/cine"><span class="nav_point"></span>CINÉ</a></li>
+            <li class="interior "><a href="http://www.enang.net/chuyen-muc/musik"><span class="nav_point"></span>MUSIK</a></li>
+            <li class="food "><a href="http://www.enang.net/chuyen-muc/lam-dep"><span class="nav_point"></span>ĐẸP</a></li>
+            <li class="goods "><a href="http://www.enang.net/chuyen-muc/nang-2"><span class="nav_point"></span>NÀNG 2.0</a></li>
+            <li class="travel "><a href="http://www.enang.net/chuyen-muc/beat-chang"><span class="nav_point"></span>BEAT CHÀNG</a></li>
+            <li class="fashion "><a href="http://www.enang.net/chuyen-muc/soc-bua"><span class="nav_point"></span>SỐC &amp; BỰA</a></li>
+            <li class="travel "><a href="http://www.enang.net/chuyen-muc/cuoi-hai"><span class="nav_point"></span>CƯỜI &amp; HÀI</a></li>
+            <li class="digital "><a href="http://www.enang.net/chuyen-muc/la-cool"><span class="nav_point"></span>LẠ &amp; COOL</a></li>
+            <li class="show"><a href="http://www.zotatv.com/" target="_blank" style="text-transform: none;"><span class="nav_point"></span>ZotaTV</a></li>
+        </ul>
     </div>
-  </div>
-</header>
-<?php if ($categories) { ?>
-<div class="container">
-  <nav id="menu" class="navbar">
-    <div class="navbar-header"><span id="category" class="visible-xs"><?php echo $text_category; ?></span>
-      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
-    </div>
-    <div class="collapse navbar-collapse navbar-ex1-collapse">
-      <ul class="nav navbar-nav">
-        <?php foreach ($categories as $category) { ?>
-        <?php if ($category['children']) { ?>
-        <li class="dropdown"><a href="<?php echo $category['href']; ?>" class="dropdown-toggle" data-toggle="dropdown"><?php echo $category['name']; ?></a>
-          <div class="dropdown-menu">
-            <div class="dropdown-inner">
-              <?php foreach (array_chunk($category['children'], ceil(count($category['children']) / $category['column'])) as $children) { ?>
-              <ul class="list-unstyled">
-                <?php foreach ($children as $child) { ?>
-                <li><a href="<?php echo $child['href']; ?>"><?php echo $child['name']; ?></a></li>
-                <?php } ?>
-              </ul>
-              <?php } ?>
-            </div>
-            <a href="<?php echo $category['href']; ?>" class="see-all"><?php echo $text_all; ?> <?php echo $category['name']; ?></a> </div>
-        </li>
-        <?php } else { ?>
-        <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
-        <?php } ?>
-        <?php } ?>
-      </ul>
-    </div>
-  </nav>
 </div>
-<?php } ?>
+</div></header>

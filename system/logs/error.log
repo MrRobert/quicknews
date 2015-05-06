@@ -1,0 +1,6 @@
+2015-05-06 9:07:38 - PHP Notice:  Undefined variable: data in /var/www/html/quicknews/catalog/controller/common/footer.php on line 31
+2015-05-06 9:07:38 - PHP Warning:  extract() expects parameter 1 to be array, null given in /var/www/html/quicknews/system/engine/loader.php on line 33
+2015-05-06 9:08:28 - PHP Notice:  Undefined variable: data in /var/www/html/quicknews/catalog/controller/common/footer.php on line 31
+2015-05-06 9:08:28 - PHP Warning:  extract() expects parameter 1 to be array, null given in /var/www/html/quicknews/system/engine/loader.php on line 33
+2015-05-06 11:09:36 - PHP Notice:  Undefined variable: data in /var/www/html/quicknews/catalog/controller/common/footer.php on line 31
+2015-05-06 11:09:36 - PHP Warning:  extract() expects parameter 1 to be array, null given in /var/www/html/quicknews/system/engine/loader.php on line 33
