@@ -3,10 +3,10 @@ html{margin-top: 0 !important;}
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,800&subset=latin,vietnamese);
 
 body {
-background-color: #f9f9f9;
 background-image: url("http://www.hqfreewallpapers.com/files/gray-bars-wallpapers.jpg");
 font: 400 12px arial;
 line-height: 1.7;
+background-attachment: fixed;
 }
 ul{
 	list-style: none;
@@ -249,10 +249,10 @@ a:hover {
 	padding-left: 0;
 }
 .sclTopNews{
-    width: 45px;
-    height: 45px;
-    border-radius: 4px;
-    background: #f0f0f0 url(../images/btn-top.png) 16px 18px no-repeat;
+    width: 72px;
+    height: 64px;
+    border-radius: 54px;
+    background: #ffffff url(../image/btn-top.png) -6px -7px no-repeat;
     position: fixed;
     right: 30px;
     bottom: 30px;
@@ -267,7 +267,7 @@ a:hover {
     display: none;
 }
 .sclTopNews:hover {
-    background: #e32c24 url(../images/btn-top.png) 16px -13px no-repeat;
+    cursor: pointer;
 }
 
 @media(min-width: 1200px){
