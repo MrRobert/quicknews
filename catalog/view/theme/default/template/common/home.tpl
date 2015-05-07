@@ -45,8 +45,6 @@
                 <p class="gradient"></p>
             </div>
 
-
-
         </div>
 
     </div><!--end carousel-feature-posts-->
@@ -149,7 +147,7 @@
 <div id="containerNews">
 <div id="colLeftNewsContent" class="hidden-xs col-sm-3 hidden-md col-lg-2">
     <div id="sticky-left-sidebar">
-        <h2 class="title-h2">Chào buổi sáng</h2>
+        <h2 class="title-h2">Tin nhanh</h2>
         <div class="news-list ct_newlist">
             <ul>
                 <li>
@@ -336,7 +334,7 @@
 </div><!-- end centerNewsContent-->
 <div id="colRightNews" class="hidden-xs hidden-sm col-md-3 col-lg-3">
 <div id="colRightNewsContainer">
-<h2 class="title-h2">Video mới nhất</h2>
+<h2 class="title-h2">Xả stress</h2>
 <div class="">
 <div class="baivietyeuthich">
     <ul class="baiviet-list">
@@ -558,7 +556,7 @@
     <img src="<?php echo STATIC_PATH ?>/image/banner_300x250_5.jpg" alt="banner 300x250">
 </div>
 <div id="sticky-right-sidebar">
-    <h2 class="title-h2" style="margin-top: 10px; width: 300px;">Xem nhiều hôm nay</h2>
+    <h2 class="title-h2" style="margin-top: 10px; width: 300px;">Phụ nữ</h2>
     <div class="baivietyeuthich">
         <ul class="baiviet-list">
             <li>

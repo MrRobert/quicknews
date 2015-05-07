@@ -63,27 +63,65 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 <!--Fix Navigation Bar with drop down menu -->
 <header>
-<div class="navcontain navbar navbar-default cus_nav">
-    <div class="container">
-        <div class="navbar-header">
-            <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a style="margin-right: 30px;" class="navbar-brand" href="index.php"><img style="width: 89px; height: 38px;" alt="logo" src="<?php echo STATIC_PATH ?>/image/logo.png"></a>
-            <ul class="nav navbar-nav" id="nav">
-                <li class="interior "><a href="index.php?route=catalog/sao"><span class="nav_point"></span>Làng Sao</a></li>
-                <li class="digital "><a href="#"><span class="nav_point"></span>Tin trong nước</a></li>
-                <li class="interior "><a href="#"><span class="nav_point"></span>Tin quốc tế</a></li>
-                <li class="goods "><a href="#"><span class="nav_point"></span>Phụ nữ</a></li>
-                <li class="travel "><a href="#"><span class="nav_point"></span>Menly</a></li>
-                <li class="fashion "><a href="#"><span class="nav_point"></span>Xả stress</a></li>
-                <li class="travel "><a href="index.php?route=catalog/video"><span class="nav_point"></span>Video</a></li>
-                <li class="digital "><a href="http://www.quicktv.com.vn" target="_blank" style="text-transform: none;"><span class="nav_point"></span>QuickMusic</a></li>
-                <li class="show"><a style="text-transform: none;" target="_blank" href="http://www.zotatv.com"><span class="nav_point"></span>QuickTV</a></li>
-            </ul>
+
+<div role="navigation" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-header">
+        <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a style="padding: 3px 30px;" class="navbar-brand" href="index.php"><img style="width: 89px; height: 38px;" alt="logo" src="<?php echo STATIC_PATH ?>/image/logo.png"></a>
+    </div>
+    <div class="navbar-collapse collapse" style="height: 1px;">
+        <ul class="nav navbar-nav">
+            <li class="interior "><a href="index.php?route=catalog/sao"><span class="nav_point"></span>Làng Sao</a></li>
+            <li class="digital "><a href="#"><span class="nav_point"></span>Tin trong nước</a></li>
+            <li class="interior "><a href="#"><span class="nav_point"></span>Tin quốc tế</a></li>
+            <li class="goods "><a href="#"><span class="nav_point"></span>Phụ nữ</a></li>
+            <li class="travel "><a href="#"><span class="nav_point"></span>Menly</a></li>
+            <li class="fashion "><a href="#"><span class="nav_point"></span>Xả stress</a></li>
+            <li class="travel "><a href="index.php?route=catalog/video"><span class="nav_point"></span>Video</a></li>
+            <li class="digital "><a href="http://www.quickmusic.com.vn" target="_blank" style="text-transform: none;"><span class="nav_point"></span>QuickMusic</a></li>
+            <li class="show"><a style="text-transform: none;" target="_blank" href="http://www.quicktv.com"><span class="nav_point"></span>QuickTV</a></li>
+        </ul>
+        <div class="col-sm-3 col-md-3 pull-right">
+            <form role="search" class="navbar-form">
+                <div class="input-group">
+                    <input type="text" id="srch-term" name="srch-term" placeholder="Tìm kiếm" class="form-control">
+                    <div class="input-group-btn">
+                        <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                    </div>
+                </div>
+            </form>
         </div>
     </div>
 </div>
+
+<!--
+    <div class="navcontain navbar navbar-default cus_nav">
+        <div class="container">
+            <div class="navbar-header">
+                <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a style="margin-right: 30px;" class="navbar-brand" href="index.php"><img style="width: 89px; height: 38px;" alt="logo" src="<?php echo STATIC_PATH ?>/image/logo.png"></a>
+                <ul class="nav navbar-nav" id="nav">
+                    <li class="interior "><a href="index.php?route=catalog/sao"><span class="nav_point"></span>Làng Sao</a></li>
+                    <li class="digital "><a href="#"><span class="nav_point"></span>Tin trong nước</a></li>
+                    <li class="interior "><a href="#"><span class="nav_point"></span>Tin quốc tế</a></li>
+                    <li class="goods "><a href="#"><span class="nav_point"></span>Phụ nữ</a></li>
+                    <li class="travel "><a href="#"><span class="nav_point"></span>Menly</a></li>
+                    <li class="fashion "><a href="#"><span class="nav_point"></span>Xả stress</a></li>
+                    <li class="travel "><a href="index.php?route=catalog/video"><span class="nav_point"></span>Video</a></li>
+                    <li class="digital "><a href="http://www.quicktv.com.vn" target="_blank" style="text-transform: none;"><span class="nav_point"></span>QuickMusic</a></li>
+                    <li class="show"><a style="text-transform: none;" target="_blank" href="http://www.zotatv.com"><span class="nav_point"></span>QuickTV</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+-->
 </header>
