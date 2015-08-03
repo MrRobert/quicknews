@@ -25,15 +25,6 @@
 
 <script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/jquery.js"></script>
 <script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/jquery-migrate.js"></script>
-<script type="text/javascript">
-    /* <![CDATA[ */
-    var AJAX = {"url":"http:\/\/www.enang.net\/wp-admin\/admin-ajax.php"};
-    /* ]]> */
-</script>
-<script type="text/javascript" src="<?php echo STATIC_PATH ?>/js/ajax.js"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="#xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="#wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.1.4">
 <script src="<?php echo STATIC_PATH ?>/js/bootstrap.js"></script>
 <script src="<?php echo STATIC_PATH ?>/js/main.js"></script>
 
@@ -61,7 +52,6 @@
     js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.0";
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<!--Fix Navigation Bar with drop down menu -->
 <header>
 
 <div role="navigation" class="navbar navbar-inverse navbar-fixed-top">
